@@ -1,1 +1,2 @@
-# rsschool-cv
+https://xrooZe.github.io/rsschool-cv/
+
