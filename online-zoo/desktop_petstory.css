@@ -103,3 +103,100 @@ margin-left: 80px;
   background: linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
 border-radius: 25px;
 }
+.photo{
+  margin-top: 950px;
+  margin-left: 30px;
+  position: absolute;
+  width: 455px;
+  height: 408px;
+  left: 0px;
+  top: 9px;
+  
+  background: url(img/bamboo-cap.png);
+  backdrop-filter: blur(2px);
+}
+.img-text{
+  margin-left: 51px;
+        margin-top: 950px;
+        position: absolute;
+height: 116px;
+left: 486px;
+right: 0px;
+top: 0px;
+
+/* h2 */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 120%;
+/* or 58px */
+
+
+/* black_blue */
+
+color: #333B41;
+}
+.img-undertext {
+  margin-top: 920px;
+        margin-left: 70px;
+        position: absolute;
+        height: 42px;
+        left: 486px;
+        right: 0px;
+        top: 136px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 130%;
+        /* or 21px */
+        
+        
+        color: #333B41;
+}
+.img-preundertext{
+  position: absolute;
+  margin-top: 1100px;
+height: 105px;
+left: 696px;
+right: 0px;
+top: 295px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #333B41;
+
+}
+.img-img{
+  position: absolute;
+  margin-top: 850px;
+  margin-right: 450px;
+height: 105px;
+left: 550px;
+right: 0px;
+top: 295px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #333B41;
+
+}
